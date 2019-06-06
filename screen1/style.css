@@ -1,0 +1,42 @@
+ form{
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-right: 20px;
+    
+    
+} 
+ form p{
+  color: rgba(169, 168, 179, 0.384);
+  padding-right: 20px;
+  font-family: serif;
+  
+}
+.myp{
+    color: rgba(2, 2, 12, 0.699)  
+}
+
+
+label{
+    color: red;
+    
+    
+}
+
+input {
+     border: transparent;
+     font-size: 20px;
+     color: rgba(2, 2, 12, 0.699);
+     padding: 5px;
+}
+
+button{
+    margin-top: 10px;
+    background: #1c1d1e;
+    color: white;
+    width: 10%;
+    border: transparent;
+    padding: 10px;
+    font-size: 15px;
+}
